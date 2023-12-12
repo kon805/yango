@@ -1,0 +1,147 @@
+.pr1{
+    display: flex;
+    justify-content: space-between;
+  padding-top: 70px;
+}
+.B p {
+    font-size: 18px;
+    padding: 5px;
+}
+ h1{
+    font-size: 7Opx;
+}
+.B{
+    padding: 10px;
+}
+  #premier {
+    display: flex;
+    padding: 20px;
+    width: 700px;
+border-bottom:0.5px solid rgb(134, 131, 131) ;
+    justify-content: space-between;
+}
+#premier ul {
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    font-size: 18px;
+    
+}
+#venom li {
+    padding-right: 20px;
+}
+#premier  a {
+    text-decoration: none;
+}
+.pr2{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+    background-color: rgb(225, 222, 222);
+}
+.tro a {
+    text-decoration: none;
+    background-color: black;
+    border-radius: 25px;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 10px;
+}
+.NO2{
+    max-width: 50%;
+}
+.pr3{ 
+    display: flex;
+    justify-content: space-between;
+}
+.NO1{
+    padding: 10px;
+    position: relative;
+    top: 100px;
+    left: 37px;
+    
+}
+.NO1 a {
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+}
+.NO4{
+    max-width: 50%;
+}
+.pr4{ 
+    display: flex;
+    justify-content: space-between;
+}
+.NO3{
+    padding: 20px;
+    position: relative;
+    top: 100px;
+    right: 220px;
+}
+.NO3 a {
+    text-decoration: none;
+    background-color: red;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    color: white;
+}
+.pr4{
+    padding-top: 70px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+}
+.p2{
+    display: flex;
+    padding: 5px;
+}
+.p1{
+    display: flex;
+    padding: 5px;
+}
+.p2 p {
+    padding-left: 20px;
+    
+}
+.p1 p{
+    padding-left: 20px;
+     padding-top: 50px;
+     cursor: pointer;
+}
+.p1 p :hover{
+    color: gray;
+    transition: 0.3s;
+}
+.pr3 a:hover{
+    background-color: white;
+    color: red;
+    transition: 0.5s;
+}
+.pr4 a:hover{
+    background-color: white;
+    color: red;
+    transition: 0.5s;
+}
+.pr2 a:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    transition: 0.5s;
+}
+.C{
+   max-width: 60%;
+}
